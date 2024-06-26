@@ -1,6 +1,6 @@
-# Stumato
+# HFS
 
-Stumato is a revolutionary platform aimed at enhancing the student experience by providing personalized services and seamless transactions. With a focus on convenience, customization, and innovation, Stumato is poised to transform how students engage with businesses and services.
+HFS is a revolutionary platform aimed at enhancing the student experience by providing personalized services and seamless transactions. With a focus on convenience, customization, and innovation, HFS is poised to transform how students engage with businesses and services.
 
 ### 1. Frontend (Android App)
 
@@ -56,4 +56,4 @@ To get started with the this project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Stumato.git
+   git clone https://github.com/yourusername/HFS.git
