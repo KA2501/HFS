@@ -52,8 +52,8 @@ Stumato is a revolutionary platform aimed at enhancing the student experience by
 
 ## Getting Started
 
-To get started with the HFS project, follow these steps:
+To get started with the this project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hfs.git
+   git clone https://github.com/yourusername/Stumato.git
